@@ -13,7 +13,7 @@ day_df = load_data('data_final.csv')
 sns.set_theme(style="white")
 palette = sns.color_palette("Blues_d", n_colors=4)
 
-st.title('Bike Rentals Analysis Dashboard')
+st.title('Dashboard Analisis Penyewaan Sepedah')
 
 st.sidebar.header('Pilihan')
 
